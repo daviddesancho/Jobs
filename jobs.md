@@ -1,23 +1,21 @@
-|    Date     |   Project   |   Machine  |  job id  |  Status  |    Comment    |
-| ----------- | ----------- | ---------- | -------- | -------- | ------------- |
-| 2021/11/18  |     IDPs    |  atlas-edr |  205747  |     R    |    CITED2     |
-| 2021/11/24  |    LLPS     |   insulin  |   475    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     |   insulin  |   476    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     |   insulin  |   477    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     |   insulin  |   478    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     |   insulin  |   479    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     |   insulin  |   480    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    82    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    83    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    84    |     R    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    85    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    94    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    95    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    96    |     Q    |   500ns slab  |
-| 2021/11/24  |    LLPS     | calmodulin |    97    |     Q    |   500ns slab  |
-     
-     
-     
-     
-     
-     
+|    Date    |   Project   |   Machine  |  job id  |  Status  |    Comment    |
+| ---------- | ----------- | ---------- | -------- | -------- | ------------- |
+| 2022/02/07 |    LLPS     |   insulin  |   197    |     R    |   14 nm slab  |
+| 2022/02/07 |    LLPS     |   insulin  |   198    |     R    |   14 nm slab  |
+| 2022/02/07 |    LLPS     |   insulin  |   199    |     R    |   14 nm slab  |
+| 2022/02/07 |    LLPS     |  atlas-edr | 418004   |     R    |    gsy 10     |
+| 2022/02/07 |   CITED     |  atlas-edr | 418180   |     R    |     epoch2    | 
+| 2022/02/07 |   CITED     |  atlas-edr | 418178   |     R    |     epoch2    |  
+| 2022/02/07 |   CITED     |  atlas-edr | 418179   |     R    |     epoch2    |  
+| 2022/02/07 |   CITED     |  atlas-edr | 418177   |     R    |     epoch2    |  
+| 2022/02/07 |    LLPS     |  atlas-edr | 417776   |     R    |     a99sbd    |  
+| 2022/02/07 |    LLPS     |  atlas-edr | 417775   |     R    |    tyr rep    |  
+| 2022/02/07 |   CITED     |  atlas-edr | 418181   |     Q    |     epoch2    |
+| 2022/02/07 |   CITED     |  atlas-edr | 418182   |     Q    |     epoch2    |
+| 2022/02/07 |   CITED     |  atlas-edr | 418183   |     Q    |     epoch2    |
+| 2022/02/07 |   CITED     |  atlas-edr | 418184   |     Q    |     epoch2    |
+| 2022/02/07 |   CITED     |  atlas-edr | 418185   |     Q    |     epoch2    |
+| 2022/02/07 |   CITED     |  atlas-edr | 418186   |     Q    |     epoch2    |
+| 2022/02/07 |    LLPS     |  atlas-edr | 418202   |     Q    |    gsy 15     |
+| 2022/02/07 |    LLPS     |  atlas-edr | 418203   |     Q    |    gsy 25     |
+| 2022/02/07 |    LLPS     |  atlas-edr | 418204   |     Q    |    gsy 10     |
