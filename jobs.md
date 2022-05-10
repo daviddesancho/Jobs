@@ -1,17 +1,12 @@
 |    Date    |   Project   |   Machine  |  job id  |  Status  |    Comment    |
 | ---------- | ----------- | ---------- | -------- | -------- | ------------- |
-| 2022/04/03 |    Gas      | calmodulin |    336   |     R    |   equil cp    |
-| 2022/04/03 |  Entropy    | calmodulin |    338   |     R    |               |
-| 2022/04/03 |  Entropy    | calmodulin |    339   |     R    |               |
-| 2022/04/06 |   CITED     |  insulin   |    344   |     R    |   unbound0    |
-| 2022/04/06 |   CITED     |  insulin   |    345   |     R    |   unbound1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532002   |     R    |   unbound8    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532003   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532004   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532005   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532006   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532007   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532008   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532009   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532010   |     R    |    epoch1    |
-| 2022/04/07 |   CITED     |  atlas-edr | 532011   |     R    |    epoch1    |
+| 2022/04/03 |    Gas      |   insulin  |    336   |     R    |   equil cp    |
+| 2022/05/09 |   CITED     | calmodulin |    402   |     R    |  epoch2/run2  |
+| 2022/05/09 |   CITED     | calmodulin |    413   |     R    |  epoch2/run3  |
+| 2022/05/09 |   CITED     | calmodulin |    414   |     R    |  epoch2/run4  |
+| 2022/05/09 |   CITED     |    arina   |  265525  |     Q    |  epoch3/run6  |
+| 2022/05/09 |   CITED     |    arina   |  265527  |     Q    |  epoch3/run7  |
+| 2022/05/09 |   CITED     |    arina   |  265529  |     Q    |  epoch3/run8  |
+| 2022/05/09 |   CITED     |    arina   |  265531  |     Q    |  epoch3/run9  |
+| 2022/05/09 |   CITED     | atlas-edr  | 604073-82|     R    |  epoch3/runs  |
+                                        
