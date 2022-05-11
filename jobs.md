@@ -1,6 +1,5 @@
 |    Date    |   Project   |   Machine  |  job id  |  Status  |    Comment    |
 | ---------- | ----------- | ---------- | -------- | -------- | ------------- |
-| 2022/04/03 |    Gas      |   insulin  |    336   |     R    |   equil cp    |
 | 2022/05/09 |   CITED     | calmodulin |    413   |     R    |  epoch2/run3  |
 | 2022/05/09 |   CITED     | calmodulin |    414   |     R    |  epoch2/run4  |
 | 2022/05/09 |   CITED     | calmodulin |    415  |     R    |  epoch2/run5  |
