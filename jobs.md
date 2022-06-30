@@ -1,11 +1,10 @@
 |    Date    |   Project   |   Machine  |  job id  |  Status  |  Queue  |    Comment    |
 | ---------- | ----------- | ---------- | -------- | -------- | ------- | ------------- |
 | 2022/05/09 |   CITED     |  insulin   |  437-441 |     R    |         | epoch2/run6-9 |
-| 2022/05/09 |   llps      | calmodulin |  480-481 |     R    |         | expand C2/1.5 |
-| 2022/05/09 |   titin     | calmodulin |  480-481 |     R    |         |  titin        |
-| 2022/05/09 |   llps      | atlas-edr  |  668901  |     Q    |         | expand replx  |
-| 2022/06/02 |   CITED     | atlas-fdr  | 668911-16|     R    | regular | epoch4/0-3/6-9|
-| 2022/05/26 |   CITED     | atlas-edr  | 638635-44|     R    |  long   | epoch5/run0-9 |
-| 2022/05/30 |   CITED     | atlas-edr  | 659688-97|     Q    |  xlong  | epoch5/run0-9 |
-| 2022/05/20 |   CITED     | atlas-edr  | 638624-33|     R    |  xlong  | epoch5/run10s |
-| 2022/05/30 |   CITED     | atlas-edr  | 659700-09|     Q    |  long   | epoch5/run10s |
+| 2022/06/24 |   llps      | calmodulin |   546    |     R    |         | condensed tyr |
+| 2022/06/24 |   llps      | calmodulin |   547    |     R    |         | condensed tyr |
+| 2022/06/24 |   llps      | calmodulin |   548    |     R    |         | condensed gsy |
+| 2022/06/13 |   llps      | atlas-edr  |  678116  |     Q    |  xlong  | expand replx  |
+| 2022/06/13 |   llps      | calmodulin |   537    |     Q    |  xlong  |     extend    |
+| 2022/06/13 |   CITED     | atlas-edr  | 693604-16|     Q    |   long  | epoch5/run10s |
+| 2022/06/02 |   CITED     | atlas-fdr  | 684356-63|     Q    | regular | epoch4/0-3/6-9|
