@@ -1,5 +1,5 @@
 |    Date    |   Project   |   Machine  |  job id  |  Status  |  Queue  |    Comment    |
 | ---------- | ----------- | ---------- | -------- | -------- | ------- | ------------- |
-| 2022/06/26 |   CITED     | atlas-edr  | 758614-18|     Q    |  xlong  | epoch6/10-14  |
-| 2022/06/26 |   CITED     | atlas-fdr  | 758604-13|     Q    |   long  |  epoch6/0-9   |
-| 2022/06/26 |   CITED     | calmodulin |   635-9  |     Q    |  bactch |  epoch6/0-9   |
+| 2022/08/29 |   CITED     | calmodulin |  664-8   |     Q    |  batch  | epoch6/15-19  |
+| 2022/08/29 |   CITED     | calmodulin |  664-8   |     Q    |  batch  | epoch7/15-19  |
+| 2022/08/29 |   CITED     | atlas-fdr  |804013-39 |     Q    |  long   | epoch7/0-14   |
